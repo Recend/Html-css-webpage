@@ -5,7 +5,7 @@
 }
 
 .hero-img {
-    background: url('/figma/Layer.png');
+    background: url('./figma/Layer.png');
     background-size: cover;
     min-width: 100%;
     height: 100vh;
@@ -318,7 +318,7 @@ h2 {
 }
 
 .background-image {
-    background: url('/figma/Layer1.png');
+    background: url('./figma/Layer1.png');
     background-repeat: no-repeat;
     background-position: center;
     background-color: black;
@@ -361,7 +361,7 @@ h2 {
     .pirmas1 {
         z-index: 1;
         padding: 50px;
-        background: url(/figma/Layer1.png);
+        background: url(./figma/Layer1.png);
         background-size: cover;
         color: white;
         box-shadow: inset 0 0 0 2000px rgba(41, 32, 37, 0.493)
@@ -438,7 +438,7 @@ h2 {
 }
 
 .background-image1 {
-    background: url('/figma/Layer5.png');
+    background: url('./figma/Layer5.png');
     background-repeat: no-repeat;
     background-position: center;
     position: absolute;
@@ -475,7 +475,7 @@ h2 {
     .antras2 {
         z-index: 1;
         padding: 50px;
-        background: url(/figma/Layer5.png);
+        background: url(./figma/Layer5.png);
         background-size: cover;
         color: rgb(255, 255, 255);
         box-shadow: inset 0 0 0 2000px rgba(41, 32, 37, 0.493)
@@ -547,7 +547,7 @@ h2 {
 
 
 #sestas {
-    background: url('/figma/Layer10.png');
+    background: url('./figma/Layer10.png');
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 100vh;
